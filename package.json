@@ -1,0 +1,24 @@
+{
+  "name": "exercicios-backend-typescript-tipos-dados",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andressavcon/exercicios-backend-typescript-tipos-dados.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andressavcon/exercicios-backend-typescript-tipos-dados/issues"
+  },
+  "homepage": "https://github.com/Andressavcon/exercicios-backend-typescript-tipos-dados#readme",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
